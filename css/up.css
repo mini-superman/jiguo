@@ -1,0 +1,66 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.up {
+    width: 100%;
+}
+
+.bx {
+    width: 80%;
+    margin: 0 auto;
+    display: flex;
+    position: relative;
+}
+
+.bx>img {
+    width: 150px;
+}
+
+.lis {
+    line-height: 60px;
+    width: 40%;
+    margin-left: 10px;
+}
+
+.uli {
+    display: flex;
+    justify-content: space-around;
+}
+
+li {
+    list-style: none;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+.upri {
+    display: flex;
+    line-height: 60px;
+    position: absolute;
+    right: 0;
+}
+
+.upri>img {
+    width: 25px;
+    height: 25px;
+    margin-top: 17px;
+}
+
+.upri>div {
+    margin-left: 10px;
+}
+
+.upri>div>a {
+    border-radius: 5px;
+    border: 1px red solid;
+    padding: 5px;
+}
+
+.fri>a {
+    color: red;
+}

@@ -1,0 +1,9 @@
+.w {
+  width: 1200px;
+  margin: 0 auto;
+}
+.shortcut .fl > img {
+  width: 134px;
+  height: 55px;
+  padding-left: 30px;
+}
